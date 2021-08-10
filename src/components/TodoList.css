@@ -17,4 +17,10 @@
     background: pink;
 }
 
-.todos li.my-todo { background: lime; }
+.todos li.light { 
+    background: #00d9ff; 
+}
+
+.todos li.dark { 
+    background: #0c740c; 
+}
